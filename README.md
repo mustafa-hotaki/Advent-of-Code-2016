@@ -1,15 +1,15 @@
 # Advent-of-Code-2016
 
-Received 2 stars so far.
+Received 14 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
-[Day 1: No Time for a Taxicab](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day1/Day1.ipynb) (Not currently uploaded or done.) \
-[Day 2: Bathroom Security](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day2/Day2.ipynb) (Not currently uploaded or done.) \
-[Day 3: Squares With Three Sides](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day3/Day3.ipynb) (Not currently uploaded or done.) \
-[Day 4: Security Through Obscurity](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day4/Day4.ipynb) (Not currently uploaded or done.) \
-[Day 5: How About a Nice Game of Chess?](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day5/Day5.ipynb) (Not currently uploaded or done.) \
-[Day 6: Signals and Noise](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day6/Day6.ipynb) (Not currently uploaded or done.) \
+[Day 1: No Time for a Taxicab](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day1/Day1.ipynb) \
+[Day 2: Bathroom Security](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day2/Day2.ipynb) \
+[Day 3: Squares With Three Sides](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day3/Day3.ipynb) \
+[Day 4: Security Through Obscurity](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day4/Day4.ipynb) \
+[Day 5: How About a Nice Game of Chess?](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day5/Day5.ipynb) \
+[Day 6: Signals and Noise](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day6/Day6.ipynb) \
 [Day 7: Internet Protocol Version 7](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day7/Day7.ipynb) (Not currently uploaded or done.) \
 [Day 8: Two-Factor Authentication](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day8/Day8.ipynb) (Not currently uploaded or done.) \
 [Day 9: Explosives in Cyberspace](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day9/Day9.ipynb) (Not currently uploaded or done.) \
