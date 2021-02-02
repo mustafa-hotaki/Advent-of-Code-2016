@@ -1,6 +1,6 @@
 # Advent-of-Code-2016
 
-Received 14 stars so far.
+Received 26 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
@@ -10,10 +10,10 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 4: Security Through Obscurity](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day4/Day4.ipynb) \
 [Day 5: How About a Nice Game of Chess?](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day5/Day5.ipynb) \
 [Day 6: Signals and Noise](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day6/Day6.ipynb) \
-[Day 7: Internet Protocol Version 7](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day7/Day7.ipynb) (Not currently uploaded or done.) \
-[Day 8: Two-Factor Authentication](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day8/Day8.ipynb) (Not currently uploaded or done.) \
-[Day 9: Explosives in Cyberspace](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day9/Day9.ipynb) (Not currently uploaded or done.) \
-[Day 10: Balance Bots](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day10/Day10.ipynb) (Not currently uploaded or done.) \
+[Day 7: Internet Protocol Version 7](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day7/Day7.ipynb)  \
+[Day 8: Two-Factor Authentication](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day8/Day8.ipynb) \
+[Day 9: Explosives in Cyberspace](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day9/Day9.ipynb) \
+[Day 10: Balance Bots](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day10/Day10.ipynb)  \
 [Day 11: Radioisotope Thermoelectric Generators](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day11/Day11.ipynb) (Not currently uploaded or done.) \
 [Day 12: Leonardo&apos;s Monorail](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day12/Day12.ipynb) (Not currently uploaded or done.) \
 [Day 13: A Maze of Twisty Little Cubicles](https://github.com/mustafa-hotaki/Advent-of-Code-2016/blob/main/Day13/Day13.ipynb) (Not currently uploaded or done.) \
